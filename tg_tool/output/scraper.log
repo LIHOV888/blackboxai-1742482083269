@@ -1,0 +1,136 @@
+2025-03-20 16:12:47,572 - ERROR - Error during scraping: "No layout with name 'body'"
+2025-03-20 16:12:47,576 - INFO - Scraper stopped and cleaned up
+2025-03-20 16:12:47,577 - INFO - Scraping completed
+2025-03-20 16:20:12,248 - INFO - UI started successfully
+2025-03-20 16:20:12,251 - INFO - Scraper initialized and ready
+2025-03-20 16:20:12,256 - INFO - Scraper stopped and cleaned up
+2025-03-20 16:20:12,256 - ERROR - Error during scraping: a coroutine was expected, got <async_generator object TelegramScraper.scrape_group at 0x7f412f0e0d40>
+2025-03-20 16:20:12,257 - INFO - Scraper stopped and cleaned up
+2025-03-20 16:20:12,258 - INFO - Scraping completed
+2025-03-20 16:32:06,408 - INFO - UI started successfully
+2025-03-20 16:32:06,411 - INFO - Scraper initialized successfully
+2025-03-20 16:32:06,412 - INFO - Scraper initialized and ready
+2025-03-20 16:32:06,413 - INFO - Starting scrape of group: @test_group
+2025-03-20 16:32:06,414 - ERROR - Error extracting UIDs from @test_group: 'dict' object has no attribute 'start_time'
+2025-03-20 16:32:06,415 - ERROR - Error during scraping: 'dict' object has no attribute 'start_time'
+2025-03-20 16:32:06,419 - INFO - Scraper stopped and cleaned up
+2025-03-20 16:32:06,422 - ERROR - Error during scraping: 'dict' object has no attribute 'start_time'
+2025-03-20 16:32:06,424 - INFO - Scraper stopped and cleaned up
+2025-03-20 16:32:06,426 - INFO - Scraping completed
+2025-03-20 16:38:28,382 - INFO - UI started successfully
+2025-03-20 16:38:28,385 - INFO - Scraper initialized successfully
+2025-03-20 16:38:28,386 - INFO - Scraper initialized and ready
+2025-03-20 16:38:28,387 - INFO - Starting scrape of group: @test_group
+2025-03-20 16:38:33,400 - INFO - Completed scrape of group: @test_group
+2025-03-20 16:38:33,405 - INFO - Successfully exported 8 UIDs to output/uids_20250320_163833.json
+2025-03-20 16:38:33,410 - INFO - Scraper stopped and cleaned up
+2025-03-20 16:38:33,415 - INFO - Scraper stopped and cleaned up
+2025-03-20 16:38:33,425 - INFO - Scraping completed
+2025-03-20 17:33:27 - INFO - Starting Telegram UID Scraper
+2025-03-20 17:33:27 - INFO - Dashboard server started at http://localhost:8000
+2025-03-20 17:33:27 - INFO - Dashboard available at http://localhost:8000
+2025-03-20 17:33:27 - INFO - Auto-adder initialized successfully
+2025-03-20 17:33:27 - INFO - Scraper initialized successfully
+2025-03-20 17:33:27 - INFO - Starting scrape of group: @test_group
+2025-03-20 17:33:27 - INFO - Successfully added UID 378301268 to @target_group
+2025-03-20 17:33:27 - INFO - Successfully added UID 605190341 to @target_group
+2025-03-20 17:33:28 - INFO - Successfully added UID 998318221 to @target_group
+2025-03-20 17:33:28 - INFO - Successfully added UID 971233897 to @target_group
+2025-03-20 17:33:29 - INFO - Successfully added UID 490399524 to @target_group
+2025-03-20 17:33:29 - INFO - Successfully added UID 957367997 to @target_group
+2025-03-20 17:33:30 - INFO - Successfully added UID 623747708 to @target_group
+2025-03-20 17:33:30 - ERROR - Failed to add UID 673476331 to @target_group
+2025-03-20 17:33:31 - INFO - Successfully added UID 318026754 to @target_group
+2025-03-20 17:33:31 - INFO - Successfully added UID 962056835 to @target_group
+2025-03-20 17:33:32 - INFO - Completed scrape of group: @test_group
+2025-03-20 17:33:32 - INFO - Auto-adder stopped and cleaned up
+2025-03-20 17:33:32 - INFO - Scraper stopped and cleaned up
+2025-03-20 17:33:32 - INFO - Successfully exported 10 UIDs to output/uids_20250320_173327.json
+2025-03-20 17:33:32 - INFO - Scraping completed
+2025-03-20 17:34:31 - INFO - Starting Telegram UID Scraper
+2025-03-20 17:34:31 - INFO - Dashboard server started at http://localhost:8000
+2025-03-20 17:34:31 - INFO - Dashboard available at http://localhost:8000
+2025-03-20 17:34:31 - INFO - Auto-adder initialized successfully
+2025-03-20 17:34:31 - INFO - Scraper initialized successfully
+2025-03-20 17:34:31 - INFO - Starting scrape of group: @test_group
+2025-03-20 17:34:31 - INFO - Successfully added UID 989616917 to @target_group
+2025-03-20 17:34:32 - INFO - Successfully added UID 492112235 to @target_group
+2025-03-20 17:34:32 - INFO - Successfully added UID 631202381 to @target_group
+2025-03-20 17:34:33 - INFO - Successfully added UID 153585710 to @target_group
+2025-03-20 17:34:33 - ERROR - Failed to add UID 480076896 to @target_group
+2025-03-20 17:34:34 - ERROR - Failed to add UID 469516100 to @target_group
+2025-03-20 17:34:34 - ERROR - Failed to add UID 996906580 to @target_group
+2025-03-20 17:34:35 - INFO - Successfully added UID 794112512 to @target_group
+2025-03-20 17:34:35 - ERROR - Failed to add UID 172385884 to @target_group
+2025-03-20 17:34:36 - INFO - Successfully added UID 633904667 to @target_group
+2025-03-20 17:34:36 - INFO - Completed scrape of group: @test_group
+2025-03-20 17:34:36 - INFO - Auto-adder stopped and cleaned up
+2025-03-20 17:34:36 - INFO - Scraper stopped and cleaned up
+2025-03-20 17:34:36 - INFO - Successfully exported 10 UIDs to output/uids_20250320_173431.json
+2025-03-20 17:34:36 - INFO - Scraping completed
+2025-03-20 17:37:48 - INFO - Starting Telegram UID Scraper
+2025-03-20 17:37:48 - ERROR - Error during execution: 'DashboardServer' object has no attribute 'dashboard_path'
+2025-03-20 17:37:48 - INFO - Scraping completed
+2025-03-20 17:48:29 - INFO - Starting Telegram UID Scraper
+2025-03-20 17:48:29 - INFO - Dashboard server started at http://localhost:8000
+2025-03-20 17:48:29 - INFO - Dashboard available at http://localhost:8000
+2025-03-20 17:48:29 - INFO - Auto-adder initialized successfully
+2025-03-20 17:48:29 - INFO - Scraper initialized successfully
+2025-03-20 17:48:29 - INFO - Starting scrape of group: @test_group
+2025-03-20 17:48:29 - INFO - Successfully added UID 258395560 to @target_group
+2025-03-20 17:48:29 - INFO - Successfully added UID 758015754 to @target_group
+2025-03-20 17:48:30 - INFO - Successfully added UID 129773982 to @target_group
+2025-03-20 17:48:30 - ERROR - Failed to add UID 203521984 to @target_group
+2025-03-20 17:48:31 - INFO - Successfully added UID 100870074 to @target_group
+2025-03-20 17:48:31 - INFO - Successfully added UID 267850963 to @target_group
+2025-03-20 17:48:32 - ERROR - Failed to add UID 570909626 to @target_group
+2025-03-20 17:48:32 - INFO - Successfully added UID 264472664 to @target_group
+2025-03-20 17:48:33 - INFO - Successfully added UID 588243080 to @target_group
+2025-03-20 17:48:33 - INFO - Successfully added UID 892377273 to @target_group
+2025-03-20 17:48:34 - INFO - Completed scrape of group: @test_group
+2025-03-20 17:48:34 - INFO - Auto-adder stopped and cleaned up
+2025-03-20 17:48:34 - INFO - Scraper stopped and cleaned up
+2025-03-20 17:48:34 - INFO - Successfully exported 10 UIDs to output/uids_20250320_174829.json
+2025-03-20 17:48:34 - INFO - Scraping completed
+2025-03-20 18:01:47 - INFO - Starting Telegram UID Scraper
+2025-03-20 18:01:47 - INFO - Dashboard server started at http://localhost:8000
+2025-03-20 18:01:47 - INFO - Dashboard available at http://localhost:8000
+2025-03-20 18:01:47 - INFO - Auto-adder initialized successfully
+2025-03-20 18:01:47 - INFO - Scraper initialized successfully
+2025-03-20 18:01:47 - INFO - Starting scrape of group: @test_group
+2025-03-20 18:01:47 - INFO - Successfully added UID 853728028 to @target_group
+2025-03-20 18:01:47 - ERROR - Failed to add UID 216610622 to @target_group
+2025-03-20 18:01:48 - INFO - Successfully added UID 510203694 to @target_group
+2025-03-20 18:01:48 - INFO - Successfully added UID 193760705 to @target_group
+2025-03-20 18:01:49 - INFO - Successfully added UID 738070298 to @target_group
+2025-03-20 18:01:49 - ERROR - Failed to add UID 506437627 to @target_group
+2025-03-20 18:01:50 - INFO - Successfully added UID 343476276 to @target_group
+2025-03-20 18:01:50 - INFO - Successfully added UID 511697694 to @target_group
+2025-03-20 18:01:51 - INFO - Successfully added UID 521459224 to @target_group
+2025-03-20 18:01:51 - INFO - Successfully added UID 102872763 to @target_group
+2025-03-20 18:01:52 - INFO - Completed scrape of group: @test_group
+2025-03-20 18:01:52 - INFO - Auto-adder stopped and cleaned up
+2025-03-20 18:01:52 - INFO - Scraper stopped and cleaned up
+2025-03-20 18:01:52 - INFO - Successfully exported 10 UIDs to output/uids_20250320_180147.json
+2025-03-20 18:01:52 - INFO - Scraping completed
+2025-03-20 18:03:05 - INFO - Starting Telegram UID Scraper
+2025-03-20 18:03:05 - INFO - Dashboard server started at http://0.0.0.0:8000
+2025-03-20 18:03:05 - INFO - Dashboard available at http://localhost:8000
+2025-03-20 18:03:05 - INFO - Auto-adder initialized successfully
+2025-03-20 18:03:05 - INFO - Scraper initialized successfully
+2025-03-20 18:03:05 - INFO - Starting scrape of group: @test_group
+2025-03-20 18:03:05 - ERROR - Failed to add UID 190473195 to @target_group
+2025-03-20 18:03:06 - INFO - Successfully added UID 711146549 to @target_group
+2025-03-20 18:03:06 - INFO - Successfully added UID 416895947 to @target_group
+2025-03-20 18:03:07 - INFO - Successfully added UID 654046374 to @target_group
+2025-03-20 18:03:07 - INFO - Successfully added UID 290449087 to @target_group
+2025-03-20 18:03:08 - ERROR - Failed to add UID 959954457 to @target_group
+2025-03-20 18:03:09 - INFO - Successfully added UID 755833380 to @target_group
+2025-03-20 18:03:09 - INFO - Successfully added UID 109626211 to @target_group
+2025-03-20 18:03:10 - INFO - Successfully added UID 206857504 to @target_group
+2025-03-20 18:03:10 - INFO - Successfully added UID 813441297 to @target_group
+2025-03-20 18:03:11 - INFO - Completed scrape of group: @test_group
+2025-03-20 18:03:11 - INFO - Auto-adder stopped and cleaned up
+2025-03-20 18:03:11 - INFO - Scraper stopped and cleaned up
+2025-03-20 18:03:11 - INFO - Successfully exported 10 UIDs to output/uids_20250320_180305.json
+2025-03-20 18:03:11 - INFO - Scraping completed
