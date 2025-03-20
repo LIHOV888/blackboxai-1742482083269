@@ -1,0 +1,28 @@
+2025-03-20 16:12:47,572 - ERROR - Error during scraping: "No layout with name 'body'"
+2025-03-20 16:12:47,576 - INFO - Scraper stopped and cleaned up
+2025-03-20 16:12:47,577 - INFO - Scraping completed
+2025-03-20 16:20:12,248 - INFO - UI started successfully
+2025-03-20 16:20:12,251 - INFO - Scraper initialized and ready
+2025-03-20 16:20:12,256 - INFO - Scraper stopped and cleaned up
+2025-03-20 16:20:12,256 - ERROR - Error during scraping: a coroutine was expected, got <async_generator object TelegramScraper.scrape_group at 0x7f412f0e0d40>
+2025-03-20 16:20:12,257 - INFO - Scraper stopped and cleaned up
+2025-03-20 16:20:12,258 - INFO - Scraping completed
+2025-03-20 16:32:06,408 - INFO - UI started successfully
+2025-03-20 16:32:06,411 - INFO - Scraper initialized successfully
+2025-03-20 16:32:06,412 - INFO - Scraper initialized and ready
+2025-03-20 16:32:06,413 - INFO - Starting scrape of group: @test_group
+2025-03-20 16:32:06,414 - ERROR - Error extracting UIDs from @test_group: 'dict' object has no attribute 'start_time'
+2025-03-20 16:32:06,415 - ERROR - Error during scraping: 'dict' object has no attribute 'start_time'
+2025-03-20 16:32:06,419 - INFO - Scraper stopped and cleaned up
+2025-03-20 16:32:06,422 - ERROR - Error during scraping: 'dict' object has no attribute 'start_time'
+2025-03-20 16:32:06,424 - INFO - Scraper stopped and cleaned up
+2025-03-20 16:32:06,426 - INFO - Scraping completed
+2025-03-20 16:38:28,382 - INFO - UI started successfully
+2025-03-20 16:38:28,385 - INFO - Scraper initialized successfully
+2025-03-20 16:38:28,386 - INFO - Scraper initialized and ready
+2025-03-20 16:38:28,387 - INFO - Starting scrape of group: @test_group
+2025-03-20 16:38:33,400 - INFO - Completed scrape of group: @test_group
+2025-03-20 16:38:33,405 - INFO - Successfully exported 8 UIDs to output/uids_20250320_163833.json
+2025-03-20 16:38:33,410 - INFO - Scraper stopped and cleaned up
+2025-03-20 16:38:33,415 - INFO - Scraper stopped and cleaned up
+2025-03-20 16:38:33,425 - INFO - Scraping completed
