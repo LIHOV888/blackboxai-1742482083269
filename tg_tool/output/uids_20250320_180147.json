@@ -1,0 +1,102 @@
+[
+  {
+    "uid": 853728028,
+    "username": "user_0",
+    "join_date": "2025-03-20T18:01:47.116097",
+    "activity_level": 8,
+    "last_seen": "2025-03-20T18:01:47.116100",
+    "message_count": 992,
+    "is_admin": false,
+    "status": "active"
+  },
+  {
+    "uid": 216610622,
+    "username": "user_1",
+    "join_date": "2025-03-20T18:01:47.616917",
+    "activity_level": 2,
+    "last_seen": "2025-03-20T18:01:47.616934",
+    "message_count": 639,
+    "is_admin": false,
+    "status": "banned"
+  },
+  {
+    "uid": 510203694,
+    "username": "user_2",
+    "join_date": "2025-03-20T18:01:48.118082",
+    "activity_level": 2,
+    "last_seen": "2025-03-20T18:01:48.118097",
+    "message_count": 753,
+    "is_admin": false,
+    "status": "inactive"
+  },
+  {
+    "uid": 193760705,
+    "username": "user_3",
+    "join_date": "2025-03-20T18:01:48.619219",
+    "activity_level": 5,
+    "last_seen": "2025-03-20T18:01:48.619236",
+    "message_count": 778,
+    "is_admin": false,
+    "status": "inactive"
+  },
+  {
+    "uid": 738070298,
+    "username": null,
+    "join_date": "2025-03-20T18:01:49.120354",
+    "activity_level": 10,
+    "last_seen": "2025-03-20T18:01:49.120367",
+    "message_count": 397,
+    "is_admin": false,
+    "status": "banned"
+  },
+  {
+    "uid": 506437627,
+    "username": "user_5",
+    "join_date": "2025-03-20T18:01:49.621496",
+    "activity_level": 3,
+    "last_seen": "2025-03-20T18:01:49.621513",
+    "message_count": 978,
+    "is_admin": false,
+    "status": "banned"
+  },
+  {
+    "uid": 343476276,
+    "username": null,
+    "join_date": "2025-03-20T18:01:50.122636",
+    "activity_level": 3,
+    "last_seen": "2025-03-20T18:01:50.122650",
+    "message_count": 698,
+    "is_admin": false,
+    "status": "active"
+  },
+  {
+    "uid": 511697694,
+    "username": "user_7",
+    "join_date": "2025-03-20T18:01:50.623771",
+    "activity_level": 9,
+    "last_seen": "2025-03-20T18:01:50.623788",
+    "message_count": 961,
+    "is_admin": false,
+    "status": "active"
+  },
+  {
+    "uid": 521459224,
+    "username": "user_8",
+    "join_date": "2025-03-20T18:01:51.124921",
+    "activity_level": 3,
+    "last_seen": "2025-03-20T18:01:51.124936",
+    "message_count": 28,
+    "is_admin": false,
+    "status": "inactive"
+  },
+  {
+    "uid": 102872763,
+    "username": "user_9",
+    "join_date": "2025-03-20T18:01:51.626149",
+    "activity_level": 4,
+    "last_seen": "2025-03-20T18:01:51.626165",
+    "message_count": 578,
+    "is_admin": false,
+    "status": "active"
+  }
+]
